@@ -4334,7 +4334,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a50f9ca21e14c4977bdcfea060291485, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  graphicsObject: {fileID: 0}
+  graphicsObject: {fileID: 8701999832695005502}
   maxSpeed: 1
 --- !u!54 &4419675243467998438
 Rigidbody:
@@ -4455,7 +4455,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!1 &8701999832695005502
 GameObject:
   m_ObjectHideFlags: 0
